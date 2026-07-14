@@ -1,17 +1,41 @@
-# app_cresst
+# Process Management MVP
 
-A new Flutter project.
+MVP desenvolvido em Flutter para validação de conceito de um aplicativo de gerenciamento e acompanhamento de processos.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Este projeto foi criado com o objetivo de validar fluxos de navegação, experiência do usuário e viabilidade técnica de uma solução mobile.
 
-A few resources to get you started if this is your first Flutter project:
+## Status
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🚧 MVP / Protótipo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto encontra-se em fase de prova de conceito e utiliza dados mockados para demonstração das funcionalidades.
+
+## Tecnologias
+
+- Flutter
+- Dart
+
+## Funcionalidades Implementadas
+
+- Navegação entre telas
+- Interface inicial do fluxo principal
+- Dados simulados para demonstração
+- Componentes reutilizáveis
+
+## Funcionalidades Futuras
+
+- Integração com API
+- Persistência de dados
+- Autenticação de usuários
+- Notificações
+- Dashboard e relatórios
+
+## Observações
+
+Projeto desenvolvido exclusivamente para fins de estudo, prototipação e validação de conceito.
+
+## Autor
+
+Cáled Tarique Pereira
